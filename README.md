@@ -1,0 +1,1 @@
+These are the PlatformIO files needed to run test code on the Waveshare ESP32-C3-0.71 160x160 round TFT Display.  I never did find the SPI pins needed to make the display work without the custom waveshare TFT_eSPI library but was able to make the board work using this brute force method and Gemini Pro :)
